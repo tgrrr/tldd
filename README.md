@@ -1,4 +1,4 @@
-# tldr
+# tldd - too long;didn't data
 
 [![Build status][travis-image]][travis-url]
 [![Gitter chat][gitter-image]][gitter-url]
@@ -127,24 +127,6 @@ There is also a comprehensive
 Contributions are most welcome!
 We strive to maintain a [welcoming and collaborative](GOVERNANCE.md) community.
 Have a look at the [contributing guidelines](CONTRIBUTING.md), and go ahead!
-
-## Similar projects
-
-- [Cheat](https://github.com/chrisallenlane/cheat)
-  allows you to create and view interactive cheatsheets on the command-line.
-  It was designed to help remind *nix system administrators of options
-  for commands that they use frequently, but not frequently enough to remember.
-
-- [Bro pages](http://bropages.org/)
-  are a highly readable supplement to man pages.
-  Bro pages show concise, common-case examples for Unix commands.
-  The examples are submitted by the user base, and can be voted up or down;
-  the best entries are what people see first when they look up a command.
-
-- [eg](https://github.com/srsudar/eg)
-  provides detailed examples with explanations on the command line.
-  Examples come from the repository, but `eg` supports displaying
-  custom examples and commands alongside the defaults.
 
 ## What does "tldr" mean?
 
